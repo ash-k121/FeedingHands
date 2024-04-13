@@ -3,4 +3,7 @@ Connects the food donation sources to the needy
 
 
 Integrating google authorization
-npm install gapi-script react-google-login
+npm install react-google-login
+
+redirecting web pages
+npm install react-router-dom 
